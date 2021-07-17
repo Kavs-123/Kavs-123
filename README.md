@@ -1,8 +1,9 @@
+
+<p align="center">
+<img  height="230" src="https://media.giphy.com/media/QtGLQaqor8BWPa1IPT/giphy.gif"></p>
 <h1 align="center">Hi 👋, I'm Kavya Agrawal</h1>
-![Banner](https://user-images.githubusercontent.com/87446654/126030667-3b7a6e9e-1f8b-4d33-93a4-ea59c69a1f42.gif)
 
-<h3 align="center"><p style="color:red;">Enthusiastic and passionate girl with aim to fly high</p></h3>
-
+<h3 align="center">***Enthusiastic and passionate girl with aim to fly high***</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavs-123" alt="kavs-123" /></a> </p>
 
 <img align="right" width="460" height="350" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
